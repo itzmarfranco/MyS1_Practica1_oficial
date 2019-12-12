@@ -1,0 +1,28 @@
+Walmart
+46.17% son hombres
+53.83% son mujeres
+
+El horario de atención es 08:00-23:59, todo el que ya esté en el sistema, se termina de despachar.
+
+*ver tabla de llegadas*
+
+10 pasillos en total
+  57% de los clientes ve todos
+  25% de los clientes ve 7 pasillos
+  18% de los clientes ve menos de 7 pasillos
+  
+El primer pasillo está a 10m de la entrada
+
+Hay tres productos por pasillo.
+
+La probabilidad de comprar un producto es de 72.3%
+El tiempo para tomar un producto es 0.5 minutos
+El costo de cada producto está entre Q10 y Q170
+
+3% de los clientes repite el recorrido (vuelve a entrar al sistema)
+
+Al final de los pasillos están las cajas (3 rápidas y 6 normales)
+
+Las cajas rápidas atienden a los clientes con menos de 20 productos (19 o menos) y tardan entre 1 y 5 minutos
+Las cajas normales atienden al resto de clientes (20 o más productos) y tardan entre 5 y 20 minutos
+
